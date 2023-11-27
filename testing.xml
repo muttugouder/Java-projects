@@ -7,7 +7,7 @@
   <parameter name="version" value="62.0"/>
   <parameter name="platform" value="WIN8"/>
     <classes>
-      <class name="LambdaTest.TestNGToDo"/>
+      <class name="muttugouder.JavaTodo"/>
     </classes>
   </test> <!-- Test -->
 
@@ -16,7 +16,7 @@
   <parameter name="version" value="79.0"/>
   <parameter name="platform" value="WIN10"/>
     <classes>
-      <class name="LambdaTest.TestNGToDo"/>
+      <class name="muttugouder.JavaTodo"/>
     </classes>
   </test> <!-- Test -->
   <test name="MACTEST">
@@ -24,7 +24,7 @@
   <parameter name="version" value="11.0"/>
   <parameter name="platform" value="macos 10.13"/>
     <classes>
-      <class name="LambdaTest.TestNGToDo"/>
+      <class name="muttugouder.JavaTodo"/>
     </classes>
   </test> <!-- Test -->
 
